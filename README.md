@@ -1,2 +1,2 @@
 
-A MERN stack Book Store Website with features including user authentication , book appointment using mongoDB.
+A MERN stack Book Store Website with features including user authentication , booking status etch.
